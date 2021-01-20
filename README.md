@@ -6,6 +6,5 @@ The plugin supposes to be able to control the motor position references of the r
 _I'm planning to include the motor dynamics as well, from which test torque controllers, developping another complementary plugin._ROS-Gazebo plugin for simulate the elastic bheavior of the qbmove actuators in Gazebo.
 
 ## Crosslink for download
-Please refer to the following package for the download
-
-[a link](https://github.com/Richi90/ROS-Gazebo-plugin-qbmove)
+Please refer to the following link for the download of the package.
+[link](https://github.com/Richi90/ROS-Gazebo-plugin-qbmove)
